@@ -40,5 +40,6 @@ But sometimes capricious, this ball can also provides you a noncommittal answer 
 
 **NB:** However note that the answer does not match with the truth but is the result of a pseudo random algorithm called "Mersenne Twister".
 
+____________________________________________________________________________________________
 This application is available for free from the **Google Play** store via this [link](https://play.google.com/store/apps/details?id=com.studio.artaban.crystalballEN).
 
