@@ -1,5 +1,5 @@
 # [Crystal Ball](https://github.com/STUDIO-Artaban/CrystalBall)
-**Crystal Ball** application which has made with the [libeng](https://github.com/STUDIO-Artaban/libeng) library displays the most realistic crystal ball ever! As soon as your camera is turned on the crystal ball appears and modifies what you are filming, just like a real crystal ball would.
+**Crystal Ball** application which has been made with the [libeng](https://github.com/STUDIO-Artaban/libeng) library displays the most realistic crystal ball ever! As soon as your camera is turned on the crystal ball appears and modifies what you are filming, just like a real crystal ball would.
 
 ![CrystalBall icon](https://github.com/STUDIO-Artaban/CrystalBall/blob/master/res/drawable-xxhdpi/ic_launcher.png)
 
